@@ -1,2 +1,6 @@
 line 1
+<<<<<<< HEAD
 added by devA
+=======
+added by devB
+>>>>>>> feature/developerB_feature3
