@@ -1,5 +1,6 @@
 line 1
 line 2
+another new line
 newly added line to breaks link to previous line 3
 devA mod
 line 3
